@@ -8,7 +8,7 @@ Generate a UUID v4 (psuedo random) using PHP.
 Using a command line interface, change into the root directory of your project and then run the following command to install the package via Composer:
 
 ```
-composer require j20/php-uuid:dev-master
+composer require juanpablom/php-uuid:dev-master
 ```
 
 If using the Laravel framework, open app/config/app.php and add the following within your 'aliases' array:

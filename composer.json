@@ -1,5 +1,5 @@
 {
-    "name": "j20/php-uuid",
+    "name": "juanpablom/php-uuid",
     "type": "library",
     "description": "Generate a UUID v4 with PHP.",
     "keywords": ["uuid","guid","token"],
